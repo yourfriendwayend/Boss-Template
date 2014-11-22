@@ -5,7 +5,7 @@ android {
     buildToolsVersion "20.0.0"
 
     defaultConfig {
-        applicationId "boxcrab.themetemplate"
+        applicationId "imwjd.boss"
         minSdkVersion 18
         targetSdkVersion 20
         versionCode 1
